@@ -1,4 +1,4 @@
-// License: MIT 2021 by NERDDISCO (Tim Pietrusky)
+// License: MIT 2021 by NERDDISCO
 // Based on the work "Infinite Mandala" by Liam Egan
 // https://codepen.io/shubniggurath/pen/Qooevz
 
